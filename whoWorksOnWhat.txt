@@ -4,7 +4,7 @@ Authentication:
 Members:
   -  Add Member
   -  Members List
-Inventory:
+Inventory: filipus
   -  Inventory
   -  Add Item
 Checkout:
