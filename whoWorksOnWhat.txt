@@ -1,10 +1,10 @@
 Authentication:
   -  Log-in
   -  Sign-in
-Members:
+Members: filipus
   -  Add Member
   -  Members List
-Inventory:
+Inventory: 
   -  Inventory
   -  Add Item
 Checkout:
